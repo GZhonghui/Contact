@@ -2,7 +2,7 @@
 > Contact by C++
 ---
 
-![Run](readMe/Run.png)
+![Contact](readMe/Run.png)
 
 ## Credits
 * Zint
