@@ -1,4 +1,4 @@
-# CContact
+# Contact
 > Contact by C++
 ---
 
